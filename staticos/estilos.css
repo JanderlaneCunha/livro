@@ -43,11 +43,6 @@ h2 {
     
 }
 
-.container {
-    text-align: center;
-    
-}
-
 article {
     padding-left: 100px;
     padding-right: 100px;
@@ -99,4 +94,11 @@ section {
 
 .imput-button:hover {
     background-color: #156e1b;
+}
+
+ul {
+    list-style-type: none;
+}
+li {
+    text-align: center;
 }
