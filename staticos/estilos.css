@@ -45,6 +45,7 @@ h2 {
 
 .container {
     text-align: center;
+    border: 1px solid;
 }
 
 article {
